@@ -2,11 +2,6 @@
 
 A ROS 2-based differential drive robot simulated in Gazebo, with keyboard teleoperation support. This project demonstrates robot modeling, simulation, and basic control using ROS 2 Jazzy and Gazebo Harmonic.
 
----
-
-## 📸 Demo
-
-*(Add screenshots or a video here — Gazebo view, robot movement, etc.)*
 
 ---
 
